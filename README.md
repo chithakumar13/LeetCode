@@ -1,6 +1,6 @@
 # LeetCode
 
-Full Video PlayList - https://www.youtube.com/playlist?list=PLGmKMg3aRkXiyXeTYLPOIuXLogRXj6yO_
+Full Video PlayList - [Link](https://www.youtube.com/playlist?list=PLGmKMg3aRkXiyXeTYLPOIuXLogRXj6yO_)
 
 | Id | Title | Solution | Video Guide | Difficulty |
 |----| ----- | -------- | ----------- | ---------- |
